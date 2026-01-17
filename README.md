@@ -119,7 +119,7 @@ _Marcus Burnap_ (CISSP, Microsoft MVP, MCT) is a cybersecurity leader and Micros
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/microsoft-unified-xdr-and-siem-solution-handbook-first-edition/9781835086858">Microsoft Unified XDR and SIEM Solution Handbook, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/microsoft-unified-xdr-and-siem-solution-handbook-9781835085844">Microsoft Unified XDR and SIEM Solution Handbook, First Edition</a></li>
  
 </ul>
 
