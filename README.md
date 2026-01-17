@@ -1,3 +1,4 @@
+<p><a href="errata">Improvements &amp; Errata - list of corrections</a></p>
 <a href="https://www.packtpub.com/en-us/unlock"><img src="https://drive.google.com/uc?export=view&id=1lQCTQQ8iV5pGuPA1n5wuds-3pwJi0OD_"></a>
 <h1 align="center">
 Unified SecOps Playbook, First Edition</h1>
