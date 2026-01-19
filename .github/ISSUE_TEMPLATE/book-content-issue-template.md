@@ -1,0 +1,21 @@
+---
+name: Book content issue template
+about: Use this template to submit an issue about content in the book. For example,
+  a typo in the text like a wrong name for something, or a change in behavior of a
+  tool.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+Please check that your issue is not already in the [errata aka list of corrections and improvements](https://github.com/PacktPublishing/Unified-SecOps-Playbook/errata/README.md). All issues will be entered into the errata once closed. They will also be fixed in the next book edition.
+
+You can delete the note above after reading it. Please complete as much information below as possible so that I can understand and fix the issue quickly. Screenshots can be especially useful. You can drag and drop images into the box. Thank you! 
+
+Chapter: 
+Page Number: 
+Section Title: 
+Problem to fix: 
+Suggested solution:
+Other useful information:
