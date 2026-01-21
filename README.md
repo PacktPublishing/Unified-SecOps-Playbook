@@ -2,7 +2,7 @@
 <a href="https://www.packtpub.com/en-us/unlock"><img src="https://drive.google.com/uc?export=view&id=1lQCTQQ8iV5pGuPA1n5wuds-3pwJi0OD_"></a>
 <h1 align="center">
 Unified SecOps Playbook, First Edition</h1>
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/unified-secops-playbook-first-edition/9781837632862"> Unified SecOps Playbook, First Edition</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/unified-secops-playbook-9781837639908"> Unified SecOps Playbook, First Edition</a>, published by Packt.
 </p>
 
 <h2 align="center">
@@ -23,7 +23,7 @@ Jose Lazaro, Marcus Burnap</p>
 </p>
 <details open> 
   <summary><h2>About the book</summary>
-<a href="https://www.packtpub.com/en-us/product/unified-secops-playbook-first-edition/9781837632862">
+<a href="https://www.packtpub.com/en-us/product/unified-secops-playbook-9781837639908">
 <img src="https://content.packt.com/B19679/cover_image_small.jpg" alt="Unified SecOps Playbook, First Edition" height="256px" align="right">
 </a>
 
@@ -119,7 +119,7 @@ _Marcus Burnap_ (CISSP, Microsoft MVP, MCT) is a cybersecurity leader and Micros
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/microsoft-unified-xdr-and-siem-solution-handbook-9781835085844">Microsoft Unified XDR and SIEM Solution Handbook, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-us/product/unified-secops-playbook-9781837639908">Microsoft Unified XDR and SIEM Solution Handbook, First Edition</a></li>
  
 </ul>
 
