@@ -23,3 +23,5 @@ In 2022, Advanced Specializations were renamed to simply 'Specializations', drop
 The new name for Microsoft Partner Network (MPN) ID is "partner network ID", often shortened to "partner ID".
 
 More specifically, PAL uses the [partner location ID, as opposed to the partner global ID](https://learn.microsoft.com/partner-center/account-settings/account-structure).
+
+_Thanks to [@guygregory](https://github.com/guygregory) for highlighting these changes_
